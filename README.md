@@ -49,12 +49,17 @@ A snapshot of the configured Kali Linux virtual machine was created to preserve 
 Screenshots demonstrating the following:
 
 * VMware VMnet8 network configuration
+![VMware VMnet8 Configuration](vmnet8-config.png.png)
 * Kali Linux IP configuration
+![Kali Linux IP Configuration](kali-ipconfig.png.png)
 * Internet and DNS connectivity test
+![Internet and DNS Test](internet-dnstest.png.png)
 * Clipboard and drag-and-drop settings
+![Clipboard and Drag and Drop](clipboard-dragdrop.png.png)
 * VMware shared folder settings
-* Shared folder visible in Kali Linux File Manager
+![VMware Shared Folder Settings](shared-folder-kali.png.png)
 * Snapshot created
+![Kali Snapshot](kali-snapshot.png.png)
 
 ## What I Learned
 
