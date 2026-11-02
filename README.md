@@ -46,7 +46,7 @@ A snapshot of the configured Kali Linux virtual machine was created to preserve 
 
 ## Screenshots
 
-Add screenshots demonstrating the following:
+Screenshots demonstrating the following:
 
 * VMware VMnet8 network configuration
 * Kali Linux IP configuration
