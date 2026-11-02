@@ -59,7 +59,7 @@ A snapshot of the configured Kali Linux virtual machine was created to preserve 
 ![Clipboard and Drag and Drop](clipboard-dragdrop.png.png)
 
 ### 5. VMware Shared Folder Settings
-<!-- Add the shared-folder settings screenshot here -->
+
 
 ### 6. Shared Folder Visible in Kali Linux File Manager
 ![Shared Folder in Kali](shared-folder-kali.png.png)
@@ -85,5 +85,5 @@ The shared folder was mounted at `/mnt/hgfs` using VMware's shared-folder utilit
 
 ## Note
 
-The assignment reference specifies VirtualBox. This lab was completed using VMware Workstation Pro as an alternative. Instructor approval should be confirmed if the assignment requires VirtualBox specifically.
+The assignment reference specifies VirtualBox. This lab was completed using VMware Workstation Pro as an alternative. 
 
